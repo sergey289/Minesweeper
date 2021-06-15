@@ -2,7 +2,9 @@
 
 
 ## Description:
-Simple Minesweeper Game in UWP
+**Simple Minesweeper Game in UWP**
+
+>The game was developed as a homework assignment for the course Essentials of Developing Windows Store Apps Using C#
 
 Every cell of the grid contains button,
 Left click show count of the bombs around (or bomb themselves with end of the game)
